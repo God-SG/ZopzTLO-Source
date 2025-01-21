@@ -191,7 +191,7 @@ public class breachsearch : UserControl
 		{
 			var data = new
 			{
-				token = LoginForm.KeyAuthApp.var("intelxkey"),
+				token = "5392788187:MwSUYNjI",
 				request = query,
 				limit = 100,
 				lang = "en"
